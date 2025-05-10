@@ -7,3 +7,4 @@ probamos subir al repo
 
 probamos reflejar un cambio a pc local
 
+probamos mandar de git a git hub
